@@ -1,0 +1,62 @@
+{
+    "hello" : "Hello",
+    "search" : "Search",
+    "inbox" :"Inbox",
+    "products" : "Products",
+    "categories" : "Categories",
+    "dashboard" : "Dashboard",
+    "addproduct" : "Add Product",
+    "settings" : "Settings",
+    "theme" : "Theme",
+    "general" : "General",
+    "edit" : "Edit",
+    "storeName" : "Store Name",
+    "defaultTheme" : "Default Theme",
+    "edocs" : "E-docs",
+    "title" : "Title",
+    "addTemplate" : "Add template",
+    "titleError" : "Title is required",
+    "save" : "Save",
+    "cancle" : "Cancle",
+    "delete" : "Delete",
+    "required" : "Required",
+    "preview" : "Preview",
+    "address" : "Address",
+    "email" :"Email",
+    "phoneNumber" : "Phone Number",
+    "description" : "Description",
+    "errorMessage" : "Error Message",
+    "roles" :"Roles",
+    "addRole" : "Add Role",
+    "deleteRole" : "Delete Role",
+    "sureMessage" : "Are you sure about this?",
+    "addPermission" : "Add Permission",
+    "deletePermission" : "Delete Permission",
+    "id" : "Id",
+    "name" : "Name",
+    "action" : "Action",
+    "permissions" : "Permission",
+    "users" : "User",
+    "addUser" : "Add User"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

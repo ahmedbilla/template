@@ -1,0 +1,63 @@
+{
+    "hello" : "Bonjour",
+    "search" : "Recherche",
+    "inbox" :"boîte de réception",
+    "products" : "Les produits",
+    "categories" : "Catégories",
+    "dashboard" : "Tableau de bord",
+    "addproduct" : "Ajouter un produit",
+    "settings" : "Paramètres",
+    "theme" : "Thème",
+    "general" : "Générale",
+    "edit" : "Modifier",
+    "storeName" : "Nom du magasin",
+    "defaultTheme" : "Thème par défaut",
+    "edocs" : "Documents électroniques",
+    "title" : "Titre",
+    "addTemplate" : "Ajouter un modèle",
+    "titleError" : "Le titre est requis",
+    "save" : "Sauvegarder",
+    "cancle" : "Annuler",
+    "delete" : "Supprimer",
+    "required" : "Requis",
+    "preview" : "Aperçu",
+    "address" : "Adresse",
+    "email":"E-mail",
+    "phoneNumber" : "Numéro de téléphone",
+    "description" : "Description",
+    "errorMessage" : "Message d'erreur",
+    "roles" :"Les rôles",
+    "addRole" : "Ajouter un rôle",
+    "deleteRole" : "Supprimer le rôle",
+    "sureMessage" : "Es-tu sûr de ça?",
+    "addPermission" : "Ajouter une autorisation",
+    "deletePermission" : "Supprimer l'autorisation",
+    "id" : "Id",
+    "name" : "Nom",
+    "action" : "Action",
+    "permissions" : "Autorisations",
+    "users" : "Utilisateurs",
+    "addUser" : "Ajouter un utilisateur"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
